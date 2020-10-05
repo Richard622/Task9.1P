@@ -1,0 +1,11 @@
+.row{
+    display:flex; 
+    margin-top: 100px;
+}
+.column{
+    flex:12%;
+    padding: 5px;
+}
+.smallone{
+    margin: 0 auto;
+}
